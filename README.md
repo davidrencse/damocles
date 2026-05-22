@@ -28,3 +28,4 @@ Then follow GitHub Pages deployment steps.
 
 ## Architecture Overview
 The application consists of a main `App` component rendered in `main.tsx`, which serves as the entry point.
+ 
