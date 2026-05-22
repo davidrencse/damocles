@@ -1,0 +1,19 @@
+# Secure File Sharing Platform  ## Summary  A secure file sharing web application that allows users to upload, encrypt, and share files with specific individuals via unique links.  ## Category  Web Application  ## Difficulty  Medium  ## Safe Scope  The project focuses on front-end development with a mock backend API for file handling. No actual file storage or user authentication is required.  ## Features  - User can upload files with drag-and-drop support.
+- Files are encrypted using a client-side encryption method.
+- Generated unique links for sharing files.
+- User can set expiration dates for shared links.
+- Responsive design using Tailwind CSS.  ## Tech Stack  - React
+- TypeScript
+- Vite
+- Tailwind CSS  ## File Structure  - src/
+- src/components/
+- src/pages/
+- src/utils/
+- public/  ## Acceptance Criteria  - Users can successfully upload files and receive a unique sharing link.
+- Links should expire after the set expiration date.
+- Files should be encrypted before upload.
+- Application should be fully responsive on mobile and desktop.  ## Documentation Requirements  - Project Overview providing a summary and purpose.
+- Installation instructions for setting up the development environment.
+- Usage instructions detailing how to upload and share files.
+- API mock documentation outlining endpoints and expected responses.
+- Contribution guidelines for potential collaborators.
