@@ -1,1 +1,0 @@
-ideas/vulnerability-scanner-dashboard.md
